@@ -1,13 +1,11 @@
-
 <div align="center">
 
-<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=REZWAN%20KABIR&fontSize=52&fontColor=00F5A0&stroke=00F5A0&strokeWidth=1&animation=fadeIn&color=0:050816,50:101B2D,100:071D24&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT&descSize=14&descAlignY=72" width="100%" alt="Rezwan Kabir Banner" />
+<!-- ═══════════════════════ HERO BANNER (WATER GLOW EFFECT) ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=REZWAN%20KABIR&fontSize=52&fontColor=00F5A0&stroke=00F5A0&strokeWidth=1&animation=fadeIn&color=0:050816,50:101B2D,100:071D24&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT&descSize=14&descAlignY=72" width="100%" alt="Rezwan Kabir Banner" />
 
 <br/>
 
-<img src="https://github.com/rezwankabir2007.png" width="145" height="145" alt="Rezwan Kabir" />
+<img src="https://github.com/rezwankabir2007.png" width="145" height="145" alt="Rezwan Kabir" style="border-radius: 50%; border: 2px solid #00F5A0; box-shadow: 0 0 25px rgba(0, 245, 160, 0.4);" />
 
 <br/>
 
@@ -129,15 +127,16 @@ Hello! I'm Rezwan Kabir, a Diploma Engineering student and an aspiring Frontend 
 
 ---
 
-<!-- ═══════════════════════ ACTIVITY MATRIX ═══════════════════════ -->
+<!-- ═══════════════════════ ACTIVITY MATRIX (WIDGET BOX MATCHED) ═══════════════════════ -->
 
 ### ◈ 03. Activity Matrix Grid
 
 <div align="center">
 
-<i>My GitHub coding frequency and contribution activity.</i>
+<p><i>Real-time GitHub contribution grid and coding frequency widget box.</i></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwankabir2007&theme=react-dark&hide_border=true&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&area_color=00F5A0&bg_color=050816" width="100%" alt="GitHub Activity Graph" />
+<!-- GitHub Contribution Grid Box Card -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwankabir2007&theme=react-dark&hide_border=true&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&area_color=00F5A0&bg_color=050816" width="100%" alt="GitHub Activity Grid Box" />
 
 </div>
 
@@ -334,4 +333,3 @@ I'm always interested in connecting with developers, exploring new ideas, and co
 <sub>Keep Learning. Keep Building. Keep Growing. 🚀</sub>
 
 </div>
-
