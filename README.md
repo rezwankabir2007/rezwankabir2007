@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
@@ -334,4 +334,4 @@ I'm always interested in connecting with developers, exploring new ideas, and co
 <sub>Keep Learning. Keep Building. Keep Growing. 🚀</sub>
 
 </div>
-```
+
