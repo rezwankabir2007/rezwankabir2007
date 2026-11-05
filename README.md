@@ -1,65 +1,86 @@
-<div align="center">
+ <div align="center">
 
-<!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=220&section=header&text=REZWAN%20KABIR&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=62&descSize=16" width="100%" alt="Rezwan Kabir Banner" />
 
-<br><br>
 
-<!-- Profile Avatar with Glow Effect -->
-<img src="https://github.com/rezwankabir2007.png" width="150" height="150" alt="Rezwan Kabir" style="border-radius: 50%; border: 3px solid #0ea5e9; box-shadow: 0px 0px 25px rgba(14, 165, 233, 0.4);" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=REZWAN%20KABIR&fontSize=52&fontColor=00F5A0&stroke=00F5A0&strokeWidth=1&animation=fadeIn&color=0:050816,50:101B2D,100:071D24&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT&descSize=14&descAlignY=72" width="100%" alt="Rezwan Kabir Banner" />
 
-# <span style="color: #0ea5e9;">Hi there, I'm Rezwan Kabir</span> 👋
+<br/>
 
-### **Frontend Developer • React.js • Next.js • TypeScript**
+<img src="https://github.com/rezwankabir2007.png" width="145" height="145" alt="Rezwan Kabir" />
 
-<p align="center">
-  <i>"Turning complex ideas into clean, highly responsive, and immersive web experiences."</i>
+<br/>
+
+# REZWAN KABIR
+
+### `Aspiring Full-Stack Developer` 
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend_Developer-00F5A0?style=flat-square&labelColor=050816&color=00F5A0" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=050816" />
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&labelColor=050816" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=050816" />
 </p>
 
-<p align="center">
-📍 Bangladesh &nbsp;•&nbsp; 
-📧 <a href="mailto:rezwankabir2007@gmail.com"><b>rezwankabir2007@gmail.com</b></a>
+*Building modern digital experiences through clean code, creative thinking, and continuous learning.*
+
+📍 Bangladesh &nbsp; • &nbsp; 📧 [Email Me](mailto:rezwankabir2007@gmail.com)
+
+<p>
+  <a href="https://github.com/rezwankabir2007">
+    <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5A0" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-razoan-kabir2007/">
+    <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.facebook.com/mohammad.rezwan.977145">
+    <img src="https://img.shields.io/badge/Facebook-050816?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+  </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/rezwankabir2007">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=0ea5e9&border_color=0ea5e9" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/md-razoan-kabir2007/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/mohammad.rezwan.977145">
-<img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=0ea5e9" alt="Facebook" />
-</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=rezwankabir2007&label=PROFILE%20VIEWS&color=00F5A0&style=flat-square" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30" height="30" /> ⚡ Quick Overview
+<!-- ═══════════════════════ DASHBOARD OVERVIEW ═══════════════════════ -->
 
-<table align="center" width="100%">
+## ◈ 01. Developer Dashboard
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🧑‍💻 About Me
-I'm a **Diploma Engineering student** and an aspiring **Frontend Developer** from Bangladesh. I specialize in building sleek, performant, and user-centric web applications with modern architecture.
+### 👨‍💻 About Me
 
-- 🔭 Currently crafting **StudentHub**
-- ⚛️ Deepening my expertise in **React**
-- ▲ Mastering **Next.js App Router**
-- 🟦 Writing type-safe code with **TypeScript**
-- 🎨 Creating pixel-perfect, responsive UI/UX
+Hello! I'm **Rezwan Kabir**, a Diploma Engineering student and an aspiring Frontend Developer from Bangladesh.
+
+I enjoy transforming ideas into beautiful, functional, and user-friendly web applications.
+
+- 🔭 Currently building **StudentHub**
+- ⚛️ Exploring modern **React** development
+- ▲ Working with **Next.js App Router**
+- 🟦 Writing type-safe code using **TypeScript**
+- 🎨 Passionate about modern UI/UX
+- 🚀 Working towards becoming a **Full-Stack Developer**
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🎯 Current Focus & Goals
-- **Architecture:** Building scalable component-driven applications.
-- **Performance:** Optimizing data fetching and rendering speed.
-- **Ecosystem:** Exploring modern deployment workflows & cloud tools.
-- **Objective:** Aiming to master full-stack software engineering.
+### 🎯 Current Focus
+
+| Area | Focus |
+|:---|:---|
+| Architecture | Scalable Components |
+| Frontend | React & Next.js |
+| Programming | TypeScript |
+| Performance | Optimized Rendering |
+| Design | Responsive UI/UX |
+| Deployment | Vercel & Netlify |
+
+### 💡 My Objective
+
+To become a professional software engineer by continuously learning, building real-world projects, and improving my problem-solving skills.
 
 </td>
 </tr>
@@ -67,93 +88,135 @@ I'm a **Diploma Engineering student** and an aspiring **Frontend Developer** fro
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" height="30" /> 🛠️ Tech Stack & Toolkit
+## ◈ 02. Technology Stack
+
+<p align="center"><b>FRONTEND DEVELOPMENT</b></p>
 
 <div align="center">
 
-### **Frontend Architecture**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Tech Stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend Skills" />
 
-### **Development Tools & Environment**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify" alt="Dev Tools" />
-</p>
+<br/><br/>
+
+<p><b>DEVELOPMENT TOOLS & ENVIRONMENT</b></p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&theme=dark" alt="Development Tools" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="30" height="30" /> 🚀 Featured Projects
+## ◈ 03. Featured Projects
 
 <div align="center">
 
-| Project | Description & Core Highlights | Tech Stack | Quick Links |
-| :--- | :--- | :--- | :--- |
-| **🎓 StudentHub** | A comprehensive learning resource platform providing study materials, subjects, and useful tools for students. | Next.js, TS, Tailwind | [Repository](https://github.com/rezwankabir2007/StudentHub) |
-| **📚 Book Vibe** | Modern book management app for exploring titles, tracking reading activity, and viewing charts. | React, TS, Recharts, Context API | [Repository](https://github.com/rezwankabir2007/Book-Vibe) |
-| **🛍️ Product App** | Responsive product browsing web app utilizing dynamic REST APIs with modern routing. | Next.js, TypeScript, Tailwind | [Repository](https://github.com/rezwankabir2007/Product-App) |
-| **🏏 BPL Dream 11** | Interactive cricket team builder allowing users to manage virtual budgets and select top players. | React, TypeScript, Tailwind | [Repository](https://github.com/rezwankabir2007/BPL-Dream-11) |
+*Selected projects showcasing my development journey.*
+
+</div>
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🎓 **StudentHub** | A comprehensive student learning platform with study materials, subjects, and useful educational tools. | Next.js, TypeScript, Tailwind |
+| 📚 **Book Vibe** | A modern book management application for exploring books, tracking reading activities, and visualizing reading statistics. | React, TypeScript, Recharts, Context API |
+| 🛍️ **Product App** | A responsive product browsing application powered by dynamic REST APIs and modern routing. | Next.js, TypeScript, Tailwind |
+| 🏏 **BPL Dream 11** | An interactive cricket team builder with virtual budgets and player selection functionality. | React, TypeScript, Tailwind |
+
+<div align="center">
+
+<a href="https://github.com/rezwankabir2007/StudentHub">
+<img src="https://img.shields.io/badge/StudentHub-View_Repository-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=050816" />
+</a>
+
+<a href="https://github.com/rezwankabir2007/Book-Vibe">
+<img src="https://img.shields.io/badge/Book_Vibe-View_Repository-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=050816" />
+</a>
+
+<a href="https://github.com/rezwankabir2007/Product-App">
+<img src="https://img.shields.io/badge/Product_App-View_Repository-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=050816" />
+</a>
+
+<a href="https://github.com/rezwankabir2007/BPL-Dream-11">
+<img src="https://img.shields.io/badge/BPL_Dream_11-View_Repository-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=050816" />
+</a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" /> 🐍 GitHub Activity
+## ◈ 04. GitHub Activity
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20chart.png" width="30" height="30" /> 📊 GitHub Statistics & Metrics
+## ◈ 05. GitHub Analytics
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rezwankabir2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwankabir2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rezwankabir2007&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwankabir2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwankabir2007&hide_border=true&background=050816&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwankabir2007&layout=compact&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=C9D1D9&langs_count=8" alt="Top Programming Languages" />
 
 </div>
 
 ---
 
+## ◈ 06. Beyond Coding
+
 <div align="center">
 
-<h3 style="color: #0ea5e9;">📫 Let's Build Something Awesome Together!</h3>
+| 💻 Development | 🎨 Creativity | 📚 Learning |
+|:---:|:---:|:---:|
+| Building Web Apps | Exploring UI/UX | Learning New Technologies |
+| Writing Clean Code | Modern Design | Improving Problem Solving |
+| Exploring Frameworks | Creative Thinking | Growing Every Day |
 
-<p>
+</div>
+
+---
+
+## ◈ 07. Let's Connect
+
+<div align="center">
+
+### 💬 Have an Idea? Let's Build Something Amazing!
+
+*I'm always interested in connecting with developers, exploring new ideas, and collaborating on exciting projects.*
+
+<br/>
+
 <a href="https://github.com/rezwankabir2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5A0" />
 </a>
+
 <a href="https://www.linkedin.com/in/md-razoan-kabir2007/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
+
 <a href="https://www.facebook.com/mohammad.rezwan.977145">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<img src="https://img.shields.io/badge/Facebook-050816?style=for-the-badge&logo=facebook&logoColor=1877F2" />
 </a>
+
 <a href="mailto:rezwankabir2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-</p>
 
-<br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071D24,50:101B2D,100:050816&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-<sub>© 2026 Rezwan Kabir • Built with code, curiosity & consistency.</sub>
+**© 2026 Rezwan Kabir**
+
+<sub>Designed with creativity • Built with code • Powered by curiosity</sub>
+
+<sub>Keep Learning. Keep Building. Keep Growing. 🚀</sub>
 
 </div>
