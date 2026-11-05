@@ -127,7 +127,7 @@ Hello! I'm Rezwan Kabir, a Diploma Engineering student and an aspiring Frontend 
 
 ---
 
-<!-- ═══════════════════════ ACTIVITY MATRIX (WIDGET BOX MATCHED) ═══════════════════════ -->
+<!-- ═══════════════════════ ACTIVITY MATRIX ═══════════════════════ -->
 
 ### ◈ 03. Activity Matrix Grid
 
@@ -135,8 +135,7 @@ Hello! I'm Rezwan Kabir, a Diploma Engineering student and an aspiring Frontend 
 
 <p><i>Real-time GitHub contribution grid and coding frequency widget box.</i></p>
 
-<!-- GitHub Contribution Grid Box Card -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwankabir2007&theme=react-dark&hide_border=true&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&area_color=00F5A0&bg_color=050816" width="100%" alt="GitHub Activity Grid Box" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwankabir2007&theme=react-dark&hide_border=true&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&area_color=00F5A0&bg_color=050816" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -226,19 +225,26 @@ Selected projects showcasing my development journey.
 
 ---
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+<!-- ═══════════════════════ GITHUB ANALYTICS (FIXED DASHBOARD) ═══════════════════════ -->
 
-### ◈ 07. GitHub Analytics
+### ◈ 07. GitHub Analytics & Metrics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rezwankabir2007&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
+<table width="100%" align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rezwankabir2007&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwankabir2007&hide_border=true&background=050816&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwankabir2007&hide_border=true&background=050816&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+<br/>
 
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwankabir2007&layout=compact&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=C9D1D9&langs_count=8" alt="Top Programming Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwankabir2007&layout=compact&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=C9D1D9&langs_count=8" width="100%" alt="Top Programming Languages" />
 
 </div>
 
@@ -279,9 +285,7 @@ Selected projects showcasing my development journey.
 <div align="center">
 
 <img src="https://img.shields.io/badge/01-Learn%20Continuously-00F5A0?style=for-the-badge&labelColor=050816" />
-
 <img src="https://img.shields.io/badge/02-Build%20Consistently-00D9FF?style=for-the-badge&labelColor=050816" />
-
 <img src="https://img.shields.io/badge/03-Improve%20Every%20Day-A78BFA?style=for-the-badge&labelColor=050816" />
 
 <br/><br/>
