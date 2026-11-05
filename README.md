@@ -1,6 +1,7 @@
- <div align="center">
+```html
+<div align="center">
 
-
+<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=REZWAN%20KABIR&fontSize=52&fontColor=00F5A0&stroke=00F5A0&strokeWidth=1&animation=fadeIn&color=0:050816,50:101B2D,100:071D24&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT&descSize=14&descAlignY=72" width="100%" alt="Rezwan Kabir Banner" />
 
@@ -10,9 +11,9 @@
 
 <br/>
 
-# REZWAN KABIR
+### REZWAN KABIR
 
-### `Aspiring Full-Stack Developer` 
+<p><i>Aspiring Full-Stack Developer</i></p>
 
 <p>
   <img src="https://img.shields.io/badge/Frontend_Developer-00F5A0?style=flat-square&labelColor=050816&color=00F5A0" />
@@ -21,9 +22,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=050816" />
 </p>
 
-*Building modern digital experiences through clean code, creative thinking, and continuous learning.*
+<p>
+  Building modern digital experiences through clean code, creative thinking, and continuous learning.
+</p>
 
-📍 Bangladesh &nbsp; • &nbsp; 📧 [Email Me](mailto:rezwankabir2007@gmail.com)
+📍 Bangladesh &nbsp; • &nbsp; 📧 <a href="mailto:rezwankabir2007@gmail.com">Email Me</a>
 
 <p>
   <a href="https://github.com/rezwankabir2007">
@@ -43,9 +46,23 @@
 
 ---
 
+<!-- ═══════════════════════ DEVELOPER STATUS ═══════════════════════ -->
+
+<div align="center">
+
+## ◈ DEVELOPER STATUS
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00F5A0?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-00D9FF?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/GOAL-FULL%20STACK%20ENGINEERING-A78BFA?style=for-the-badge&labelColor=050816" />
+
+</div>
+
+---
+
 <!-- ═══════════════════════ DASHBOARD OVERVIEW ═══════════════════════ -->
 
-## ◈ 01. Developer Dashboard
+### ◈ 01. Developer Dashboard
 
 <table width="100%">
 <tr>
@@ -53,34 +70,28 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Rezwan Kabir**, a Diploma Engineering student and an aspiring Frontend Developer from Bangladesh.
-
-I enjoy transforming ideas into beautiful, functional, and user-friendly web applications.
+Hello! I'm Rezwan Kabir, a Diploma Engineering student and an aspiring Frontend Developer from Bangladesh. I enjoy transforming ideas into beautiful, functional, and user-friendly web applications.
 
 - 🔭 Currently building **StudentHub**
 - ⚛️ Exploring modern **React** development
 - ▲ Working with **Next.js App Router**
 - 🟦 Writing type-safe code using **TypeScript**
 - 🎨 Passionate about modern UI/UX
-- 🚀 Working towards becoming a **Full-Stack Developer**
+- 🚀 Working towards becoming a Full-Stack Developer
 
 </td>
 <td width="45%" valign="top">
 
-### 🎯 Current Focus
+### 🎯 Current Focus & Goals
 
-| Area | Focus |
-|:---|:---|
-| Architecture | Scalable Components |
-| Frontend | React & Next.js |
-| Programming | TypeScript |
-| Performance | Optimized Rendering |
-| Design | Responsive UI/UX |
-| Deployment | Vercel & Netlify |
+- **Architecture:** Scalable Components
+- **Frontend:** React & Next.js Ecosystem
+- **Programming:** TypeScript & Clean Code
+- **Performance:** Optimized Rendering & Speed
+- **Design:** Modern & Responsive UI/UX
+- **Deployment:** Vercel & Netlify Workflows
 
-### 💡 My Objective
-
-To become a professional software engineer by continuously learning, building real-world projects, and improving my problem-solving skills.
+> **Objective:** To become a professional software engineer by continuously learning, building real-world projects, and solving complex problems.
 
 </td>
 </tr>
@@ -88,11 +99,57 @@ To become a professional software engineer by continuously learning, building re
 
 ---
 
-## ◈ 02. Technology Stack
+<!-- ═══════════════════════ QUICK DASHBOARD ═══════════════════════ -->
 
-<p align="center"><b>FRONTEND DEVELOPMENT</b></p>
+### ◈ 02. Developer Snapshot
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/ROLE-FRONTEND-00F5A0?style=flat-square&labelColor=050816" />
+<br/><b>Frontend Developer</b>
+<br/><sub>Building modern interfaces</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/STACK-REACT-61DAFB?style=flat-square&labelColor=050816" />
+<br/><b>React Ecosystem</b>
+<br/><sub>Modern web development</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GOAL-FULLSTACK-A78BFA?style=flat-square&labelColor=050816" />
+<br/><b>Full-Stack Journey</b>
+<br/><sub>Growing every day</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ACTIVITY MATRIX ═══════════════════════ -->
+
+### ◈ 03. Activity Matrix Grid
+
+<div align="center">
+
+<i>My GitHub coding frequency and contribution activity.</i>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwankabir2007&theme=react-dark&hide_border=true&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&area_color=00F5A0&bg_color=050816" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ TECHNOLOGY STACK ═══════════════════════ -->
+
+### ◈ 04. Technology Stack
+
+<div align="center">
+
+<p><b>FRONTEND DEVELOPMENT</b></p>
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" alt="Frontend Skills" />
 
@@ -102,24 +159,33 @@ To become a professional software engineer by continuously learning, building re
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&theme=dark" alt="Development Tools" />
 
+<br/><br/>
+
+<p><b>CORE DEVELOPMENT PRINCIPLES</b></p>
+
+<img src="https://img.shields.io/badge/Clean_Code-00F5A0?style=flat-square&labelColor=050816" />
+<img src="https://img.shields.io/badge/Responsive_Design-00D9FF?style=flat-square&labelColor=050816" />
+<img src="https://img.shields.io/badge/Component_Architecture-A78BFA?style=flat-square&labelColor=050816" />
+<img src="https://img.shields.io/badge/Problem_Solving-FFA94D?style=flat-square&labelColor=050816" />
+
 </div>
 
 ---
 
-## ◈ 03. Featured Projects
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+
+### ◈ 05. Featured Projects
 
 <div align="center">
-
-*Selected projects showcasing my development journey.*
-
+Selected projects showcasing my development journey.
 </div>
 
-| Project | Description | Technologies |
-|:---|:---|:---|
-| 🎓 **StudentHub** | A comprehensive student learning platform with study materials, subjects, and useful educational tools. | Next.js, TypeScript, Tailwind |
-| 📚 **Book Vibe** | A modern book management application for exploring books, tracking reading activities, and visualizing reading statistics. | React, TypeScript, Recharts, Context API |
-| 🛍️ **Product App** | A responsive product browsing application powered by dynamic REST APIs and modern routing. | Next.js, TypeScript, Tailwind |
-| 🏏 **BPL Dream 11** | An interactive cricket team builder with virtual budgets and player selection functionality. | React, TypeScript, Tailwind |
+| Project | Description & Highlights | Tech Stack | Quick Links |
+| :--- | :--- | :--- | :--- |
+| **🎓 StudentHub** | A comprehensive student learning platform with study materials, subjects, and useful educational tools. | Next.js, TypeScript, Tailwind | [Repository](https://github.com/rezwankabir2007/StudentHub) |
+| **📚 Book Vibe** | A modern book management application for exploring books, tracking reading activities, and statistics. | React, TypeScript, Recharts, Context API | [Repository](https://github.com/rezwankabir2007/Book-Vibe) |
+| **🛍️ Product App** | A responsive product browsing application powered by dynamic REST APIs and modern routing. | Next.js, TypeScript, Tailwind | [Repository](https://github.com/rezwankabir2007/Product-App) |
+| **🏏 BPL Dream 11** | An interactive cricket team builder with virtual budgets and player selection functionality. | React, TypeScript, Tailwind | [Repository](https://github.com/rezwankabir2007/BPL-Dream-11) |
 
 <div align="center">
 
@@ -143,17 +209,27 @@ To become a professional software engineer by continuously learning, building re
 
 ---
 
-## ◈ 04. GitHub Activity
+<!-- ═══════════════════════ GITHUB CONTRIBUTION SNAKE ═══════════════════════ -->
+
+### ◈ 06. GitHub Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+<p><i>Every contribution is a step forward in my development journey.</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rezwankabir2007/rezwankabir2007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+</picture>
 
 </div>
 
 ---
 
-## ◈ 05. GitHub Analytics
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+
+### ◈ 07. GitHub Analytics
 
 <div align="center">
 
@@ -169,12 +245,26 @@ To become a professional software engineer by continuously learning, building re
 
 ---
 
-## ◈ 06. Beyond Coding
+<!-- ═══════════════════════ GITHUB TROPHIES ═══════════════════════ -->
+
+### ◈ 08. GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rezwankabir2007&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Profile Trophies" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ BEYOND CODING ═══════════════════════ -->
+
+### ◈ 09. Beyond Coding
 
 <div align="center">
 
 | 💻 Development | 🎨 Creativity | 📚 Learning |
-|:---:|:---:|:---:|
+| :---: | :---: | :---: |
 | Building Web Apps | Exploring UI/UX | Learning New Technologies |
 | Writing Clean Code | Modern Design | Improving Problem Solving |
 | Exploring Frameworks | Creative Thinking | Growing Every Day |
@@ -183,13 +273,35 @@ To become a professional software engineer by continuously learning, building re
 
 ---
 
-## ◈ 07. Let's Connect
+<!-- ═══════════════════════ DEVELOPER MINDSET ═══════════════════════ -->
+
+### ◈ 10. Developer Mindset
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Learn%20Continuously-00F5A0?style=for-the-badge&labelColor=050816" />
+
+<img src="https://img.shields.io/badge/02-Build%20Consistently-00D9FF?style=for-the-badge&labelColor=050816" />
+
+<img src="https://img.shields.io/badge/03-Improve%20Every%20Day-A78BFA?style=for-the-badge&labelColor=050816" />
+
+<br/><br/>
+
+> "Great things are built one line of code at a time."
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+### ◈ 11. Let's Connect
 
 <div align="center">
 
 ### 💬 Have an Idea? Let's Build Something Amazing!
 
-*I'm always interested in connecting with developers, exploring new ideas, and collaborating on exciting projects.*
+I'm always interested in connecting with developers, exploring new ideas, and collaborating on exciting projects.
 
 <br/>
 
@@ -211,12 +323,15 @@ To become a professional software engineer by continuously learning, building re
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071D24,50:101B2D,100:050816&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071D24,50:101B2D,100:050816&height=140&section=footer" width="100%" alt="Footer Banner" />
 
 **© 2026 Rezwan Kabir**
 
 <sub>Designed with creativity • Built with code • Powered by curiosity</sub>
 
+<br/>
+
 <sub>Keep Learning. Keep Building. Keep Growing. 🚀</sub>
 
 </div>
+```
